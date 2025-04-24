@@ -9,6 +9,6 @@ else:
 
 print("Výstup:", zprava)
 
-print(Změna byla provedena)
+print("Změna byla provedena")
 
 print("Projekt 1")
