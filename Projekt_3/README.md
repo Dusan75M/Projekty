@@ -1,6 +1,6 @@
 # Engeto project no. 3
 
-3rd project of Python Academy by Engeto
+3rd project of Python Academy by Engeto.
 
 ## Description of the project
 
