@@ -30,7 +30,7 @@ def guess_number():
     return input(">>> ")
 
 def search_faults(entered_number):
-    """"
+    """
     Check whether the input is correct: 4-digit unique number not starting with zero.
     """
     if entered_number.isnumeric():
